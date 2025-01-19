@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a **clone** of the website **[Cynthia Ugwu](https://cynthiaugwu.com/)**. It is built using **React**, **Vite**, **JavaScript**, **CSS**, and **HTML**. The clone is based on an older version of the original website and is **not a full clone**. It showcases a similar layout and design but with certain features missing or altered.
+This project is a **clone** of the website **[Cynthia Ugwu](https://cynthiaugwu.com/)**. It is built using **JavaScript**, **CSS**, and **HTML**. The clone is based on an older version of the original website and is **not a full clone**. It showcases a similar layout and design but with certain features missing or altered.
 
 This project was developed by following a tutorial series from **[Sheriyan Coding School](https://www.youtube.com/@sheryians)** on YouTube, and is an attempt to replicate the functionality and design of the original website.
 
